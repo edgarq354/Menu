@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.elisoft.menu.MainActivity">
+    <item
+        android:id="@+id/it_configuracion"
+        android:orderInCategory="100"
+        android:title="Configuracion" />
+    <item
+        android:id="@+id/it_actualizacion"
+        android:orderInCategory="100"
+        android:title="@string/action_actualizacion" />
+
+    <item
+        android:id="@+id/it_salir"
+        android:orderInCategory="100"
+        android:title="@string/action_salir" />
+</menu>

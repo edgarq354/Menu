@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "228482383462",
+    "firebase_url": "https://android-2e511.firebaseio.com",
+    "project_id": "android-2e511",
+    "storage_bucket": "android-2e511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228482383462:android:2aa0b7c2d936dce2",
+        "android_client_info": {
+          "package_name": "com.elisoft.menu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228482383462-3r1msii4vr33pbvgjncr7v8q38s8b21n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcbF71bcM2tG4Wo_GL2sgR1c5Tb_JDgR0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

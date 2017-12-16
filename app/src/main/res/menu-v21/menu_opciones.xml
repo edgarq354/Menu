@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/it_configuracion"
+        android:orderInCategory="100"
+        android:title="Configuracion" />
+    <item
+        android:id="@+id/it_actualizacion"
+        android:orderInCategory="100"
+        android:title="Actualizaciones" />
+</menu>
